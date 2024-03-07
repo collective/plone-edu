@@ -1,0 +1,7 @@
+---
+project_folders:
+  # Path to store plone-edu.example.com postgres data
+  - path: "/srv/plone-edu/data"
+    owner: 999
+    group: 999
+    mode: "0750"

@@ -1,0 +1,5 @@
+{
+  "volto-plone-edu": {
+    "local": "addons/volto-plone-edu/src"
+  }
+}
