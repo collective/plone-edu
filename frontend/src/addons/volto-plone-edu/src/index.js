@@ -1,9 +1,8 @@
-
 const applyConfig = (config) => {
   config.settings = {
     ...config.settings,
-    isMultilingual: false,
-    supportedLanguages: ['de'],
+    isMultilingual: true,
+    supportedLanguages: ['de', 'en'],
     defaultLanguage: 'de',
   };
   return config;
