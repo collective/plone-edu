@@ -1,0 +1,112 @@
+{
+    "@id": "/de/organisation/fakultaet-informatik/getty-images-d6p8fnyzxx4-unsplash-1.jpg",
+    "@type": "Image",
+    "UID": "7bbab45447bf4013b968473a73e07cc4",
+    "allow_discussion": false,
+    "contributors": [],
+    "created": "2024-03-08T22:32:15+00:00",
+    "creators": [
+        "admin"
+    ],
+    "description": "",
+    "effective": null,
+    "exclude_from_nav": false,
+    "expires": null,
+    "id": "getty-images-d6p8fnyzxx4-unsplash-1.jpg",
+    "image": {
+        "blob_path": "blobs/7bbab45447bf4013b968473a73e07cc4-image/getty-images-D6P8FNyZxx4-unsplash (1).jpg",
+        "content-type": "image/jpeg",
+        "filename": "getty-images-D6P8FNyZxx4-unsplash (1).jpg",
+        "height": 4800,
+        "size": 2359744,
+        "width": 6500
+    },
+    "is_folderish": false,
+    "language": "de",
+    "layout": "image_view",
+    "lock": {},
+    "modified": "2024-03-08T22:32:15+00:00",
+    "parent": {
+        "@id": "/de/organisation/fakultaet-informatik",
+        "@type": "Subsite",
+        "UID": "381f3d5686534d26ae59f48acb51f928",
+        "description": "",
+        "image_field": null,
+        "image_scales": {
+            "preview_image_link": [
+                {
+                    "base_path": "/de/organisation/fakultaet-informatik/getty-images-d6p8fnyzxx4-unsplash-1.jpg",
+                    "content-type": "image/jpeg",
+                    "download": "@@images/image-6500-bf2b158c30067ceff96d8c5781967fcc.jpeg",
+                    "filename": "getty-images-D6P8FNyZxx4-unsplash (1).jpg",
+                    "height": 4800,
+                    "scales": {
+                        "great": {
+                            "download": "@@images/image-1200-87b4fee5a9276b03f2cd8d6ac681a4b2.jpeg",
+                            "height": 886,
+                            "width": 1200
+                        },
+                        "huge": {
+                            "download": "@@images/image-1600-8c04659b82f37cf0cb9ff70aa326a6bd.jpeg",
+                            "height": 1181,
+                            "width": 1600
+                        },
+                        "icon": {
+                            "download": "@@images/image-32-d7fa11ea71f906ade2f677648cf6ff83.jpeg",
+                            "height": 23,
+                            "width": 32
+                        },
+                        "large": {
+                            "download": "@@images/image-800-346c1b00b5fb1ee023c3f33403370435.jpeg",
+                            "height": 590,
+                            "width": 800
+                        },
+                        "larger": {
+                            "download": "@@images/image-1000-a79555e02d6ab9f3c0dacfa710628748.jpeg",
+                            "height": 738,
+                            "width": 1000
+                        },
+                        "mini": {
+                            "download": "@@images/image-200-751c839de05bdb4b3b695c1765b59266.jpeg",
+                            "height": 147,
+                            "width": 200
+                        },
+                        "preview": {
+                            "download": "@@images/image-400-231d1e8a74c54c73f3c869e523bed19c.jpeg",
+                            "height": 295,
+                            "width": 400
+                        },
+                        "teaser": {
+                            "download": "@@images/image-600-2c0914f418acf43c5f1d0955e20f0094.jpeg",
+                            "height": 443,
+                            "width": 600
+                        },
+                        "thumb": {
+                            "download": "@@images/image-128-cc9a073dba1315480a37b59d056f7870.jpeg",
+                            "height": 94,
+                            "width": 128
+                        },
+                        "tile": {
+                            "download": "@@images/image-64-aec0721eeeea98aad6ea72366c352ee8.jpeg",
+                            "height": 47,
+                            "width": 64
+                        }
+                    },
+                    "size": 2359744,
+                    "width": 6500
+                }
+            ]
+        },
+        "review_state": "published",
+        "title": "Fakult\u00e4t Informatik",
+        "type_title": "Subsite"
+    },
+    "review_state": null,
+    "rights": "",
+    "subjects": [],
+    "title": "getty-images-D6P8FNyZxx4-unsplash (1).jpg",
+    "type_title": "Bild",
+    "version": "current",
+    "working_copy": null,
+    "working_copy_of": null
+}

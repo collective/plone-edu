@@ -1,0 +1,112 @@
+{
+    "@id": "/de/organisation/fakultaet-mathematik/jeswin-thomas-hecib2an4t4-unsplash-1.jpg",
+    "@type": "Image",
+    "UID": "60392dab4a7040758dc531b1b269fdcd",
+    "allow_discussion": false,
+    "contributors": [],
+    "created": "2024-03-08T22:27:51+00:00",
+    "creators": [
+        "admin"
+    ],
+    "description": "https://unsplash.com/photos/person-writing-on-white-paper-hecib2an4T4",
+    "effective": null,
+    "exclude_from_nav": false,
+    "expires": null,
+    "id": "jeswin-thomas-hecib2an4t4-unsplash-1.jpg",
+    "image": {
+        "blob_path": "blobs/60392dab4a7040758dc531b1b269fdcd-image/jeswin-thomas-hecib2an4T4-unsplash (1).jpg",
+        "content-type": "image/jpeg",
+        "filename": "jeswin-thomas-hecib2an4T4-unsplash (1).jpg",
+        "height": 3358,
+        "size": 2305255,
+        "width": 5060
+    },
+    "is_folderish": false,
+    "language": "de",
+    "layout": "image_view",
+    "lock": {},
+    "modified": "2024-03-08T22:28:07+00:00",
+    "parent": {
+        "@id": "/de/organisation/fakultaet-mathematik",
+        "@type": "Subsite",
+        "UID": "f19746e11ed4487388cbf353a50b8a63",
+        "description": "",
+        "image_field": null,
+        "image_scales": {
+            "preview_image_link": [
+                {
+                    "base_path": "/de/organisation/fakultaet-mathematik/jeswin-thomas-hecib2an4t4-unsplash-1.jpg",
+                    "content-type": "image/jpeg",
+                    "download": "@@images/image-5060-97324fa329f2684e6fd5f218cf6ef364.jpeg",
+                    "filename": "jeswin-thomas-hecib2an4T4-unsplash (1).jpg",
+                    "height": 3358,
+                    "scales": {
+                        "great": {
+                            "download": "@@images/image-1200-6fe78f1ffd07ca5fa2729a8614834b2b.jpeg",
+                            "height": 796,
+                            "width": 1200
+                        },
+                        "huge": {
+                            "download": "@@images/image-1600-55bb95c6f64d45d9171a9d75ab43c5de.jpeg",
+                            "height": 1061,
+                            "width": 1600
+                        },
+                        "icon": {
+                            "download": "@@images/image-32-9e09a9195b083acd099971548fda8f1e.jpeg",
+                            "height": 21,
+                            "width": 32
+                        },
+                        "large": {
+                            "download": "@@images/image-800-8e02a0c216ab5711be2e11814d5093e8.jpeg",
+                            "height": 530,
+                            "width": 800
+                        },
+                        "larger": {
+                            "download": "@@images/image-1000-bf1d6d63f15fb2177a39f1685ad6587d.jpeg",
+                            "height": 663,
+                            "width": 1000
+                        },
+                        "mini": {
+                            "download": "@@images/image-200-829578389b4ed7d657cbd149d1c3315a.jpeg",
+                            "height": 132,
+                            "width": 200
+                        },
+                        "preview": {
+                            "download": "@@images/image-400-e4c23485f3f3fe7733d1040b72a54e6d.jpeg",
+                            "height": 265,
+                            "width": 400
+                        },
+                        "teaser": {
+                            "download": "@@images/image-600-259ede406c9f1f2348f95b2ff18c09fa.jpeg",
+                            "height": 398,
+                            "width": 600
+                        },
+                        "thumb": {
+                            "download": "@@images/image-128-295936c92da24695dae73fb0d2e7c7a3.jpeg",
+                            "height": 84,
+                            "width": 128
+                        },
+                        "tile": {
+                            "download": "@@images/image-64-0d5e11e9a9011456698d673f82e5805d.jpeg",
+                            "height": 42,
+                            "width": 64
+                        }
+                    },
+                    "size": 2305255,
+                    "width": 5060
+                }
+            ]
+        },
+        "review_state": "published",
+        "title": "Fakult\u00e4t Mathematik",
+        "type_title": "Subsite"
+    },
+    "review_state": null,
+    "rights": "",
+    "subjects": [],
+    "title": "jeswin-thomas-hecib2an4T4-unsplash (1).jpg",
+    "type_title": "Bild",
+    "version": "current",
+    "working_copy": null,
+    "working_copy_of": null
+}

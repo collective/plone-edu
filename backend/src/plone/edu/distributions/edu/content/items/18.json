@@ -1,0 +1,112 @@
+{
+    "@id": "/de/organisation/philosophische-fakultaet/giammarco-boscaro-zeh-ljawhtg-unsplash.jpg",
+    "@type": "Image",
+    "UID": "7470b360ad9b4d5eb2923f5671294415",
+    "allow_discussion": false,
+    "contributors": [],
+    "created": "2024-03-08T22:35:01+00:00",
+    "creators": [
+        "admin"
+    ],
+    "description": "",
+    "effective": null,
+    "exclude_from_nav": false,
+    "expires": null,
+    "id": "giammarco-boscaro-zeh-ljawhtg-unsplash.jpg",
+    "image": {
+        "blob_path": "blobs/7470b360ad9b4d5eb2923f5671294415-image/giammarco-boscaro-zeH-ljawHtg-unsplash.jpg",
+        "content-type": "image/jpeg",
+        "filename": "giammarco-boscaro-zeH-ljawHtg-unsplash.jpg",
+        "height": 3969,
+        "size": 3248581,
+        "width": 5953
+    },
+    "is_folderish": false,
+    "language": "de",
+    "layout": "image_view",
+    "lock": {},
+    "modified": "2024-03-08T22:35:01+00:00",
+    "parent": {
+        "@id": "/de/organisation/philosophische-fakultaet",
+        "@type": "Subsite",
+        "UID": "d59e7b4e055a4495a4aa3fe740d7ffd3",
+        "description": "",
+        "image_field": null,
+        "image_scales": {
+            "preview_image_link": [
+                {
+                    "base_path": "/de/organisation/philosophische-fakultaet/giammarco-boscaro-zeh-ljawhtg-unsplash.jpg",
+                    "content-type": "image/jpeg",
+                    "download": "@@images/image-5953-d5506ecd66c77d0fe0a14108a7ce7262.jpeg",
+                    "filename": "giammarco-boscaro-zeH-ljawHtg-unsplash.jpg",
+                    "height": 3969,
+                    "scales": {
+                        "great": {
+                            "download": "@@images/image-1200-b88fe5ae14edbbe7512c6b22dae04655.jpeg",
+                            "height": 800,
+                            "width": 1200
+                        },
+                        "huge": {
+                            "download": "@@images/image-1600-e033f47dbe7831d218cbe9a4b0f84d29.jpeg",
+                            "height": 1066,
+                            "width": 1600
+                        },
+                        "icon": {
+                            "download": "@@images/image-32-2dedaec31fdd281df325248807efe7a9.jpeg",
+                            "height": 21,
+                            "width": 32
+                        },
+                        "large": {
+                            "download": "@@images/image-800-c32316070963ae1c1a0753c66b84dd42.jpeg",
+                            "height": 533,
+                            "width": 800
+                        },
+                        "larger": {
+                            "download": "@@images/image-1000-4348ca5711d20c46ecfb6ae5847558a0.jpeg",
+                            "height": 666,
+                            "width": 1000
+                        },
+                        "mini": {
+                            "download": "@@images/image-200-c0256baaf3124daff5b4bafbddbe6d81.jpeg",
+                            "height": 133,
+                            "width": 200
+                        },
+                        "preview": {
+                            "download": "@@images/image-400-0e39c44eb4b58593ba2e3963c7ac2a1c.jpeg",
+                            "height": 266,
+                            "width": 400
+                        },
+                        "teaser": {
+                            "download": "@@images/image-600-be1f8cfbbdaacf351a1dc89e20adc1c5.jpeg",
+                            "height": 400,
+                            "width": 600
+                        },
+                        "thumb": {
+                            "download": "@@images/image-128-c83af18f90274ba8fb79b375e5af13e7.jpeg",
+                            "height": 85,
+                            "width": 128
+                        },
+                        "tile": {
+                            "download": "@@images/image-64-71c087437b23028cc8fe4b98649bf922.jpeg",
+                            "height": 42,
+                            "width": 64
+                        }
+                    },
+                    "size": 3248581,
+                    "width": 5953
+                }
+            ]
+        },
+        "review_state": "published",
+        "title": "Philosophische Fakult\u00e4t",
+        "type_title": "Subsite"
+    },
+    "review_state": null,
+    "rights": "",
+    "subjects": [],
+    "title": "giammarco-boscaro-zeH-ljawHtg-unsplash.jpg",
+    "type_title": "Bild",
+    "version": "current",
+    "working_copy": null,
+    "working_copy_of": null
+}

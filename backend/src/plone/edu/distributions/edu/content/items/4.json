@@ -1,0 +1,111 @@
+{
+    "@id": "/de/forschung/louis-reed-pwckf7l4-no-unsplash-1.jpg",
+    "@type": "Image",
+    "UID": "d17cbb67c4614d3281a436cdd177f9e8",
+    "allow_discussion": false,
+    "contributors": [],
+    "created": "2024-03-09T08:50:54+00:00",
+    "creators": [
+        "admin"
+    ],
+    "description": "",
+    "effective": null,
+    "exclude_from_nav": false,
+    "expires": null,
+    "id": "louis-reed-pwckf7l4-no-unsplash-1.jpg",
+    "image": {
+        "blob_path": "blobs/d17cbb67c4614d3281a436cdd177f9e8-image/louis-reed-pwcKF7L4-no-unsplash (1).jpg",
+        "content-type": "image/jpeg",
+        "filename": "louis-reed-pwcKF7L4-no-unsplash (1).jpg",
+        "height": 3456,
+        "size": 3842177,
+        "width": 5184
+    },
+    "is_folderish": false,
+    "language": "de",
+    "layout": "image_view",
+    "lock": {},
+    "modified": "2024-03-09T08:50:55+00:00",
+    "parent": {
+        "@id": "/de/forschung",
+        "@type": "Document",
+        "UID": "1dcc02e3985a4c388360236bbbcd0e1d",
+        "description": "",
+        "image_field": null,
+        "image_scales": {
+            "preview_image": [
+                {
+                    "content-type": "image/jpeg",
+                    "download": "@@images/preview_image-5184-29277f4af41f2e1cdb796e7b2ed102a6.jpeg",
+                    "filename": "louis-reed-pwcKF7L4-no-unsplash (1).jpg",
+                    "height": 3456,
+                    "scales": {
+                        "great": {
+                            "download": "@@images/preview_image-1200-7d73ba876b4fe4ca1328c6bf56f2be69.jpeg",
+                            "height": 800,
+                            "width": 1200
+                        },
+                        "huge": {
+                            "download": "@@images/preview_image-1600-f17bfb92d83234d02b412cdcca8974b4.jpeg",
+                            "height": 1066,
+                            "width": 1600
+                        },
+                        "icon": {
+                            "download": "@@images/preview_image-32-4c412e58e223952f08dc2cbb54c1d933.jpeg",
+                            "height": 21,
+                            "width": 32
+                        },
+                        "large": {
+                            "download": "@@images/preview_image-800-5cbf3686c57037dcf6ea8d1a2ce43cb6.jpeg",
+                            "height": 533,
+                            "width": 800
+                        },
+                        "larger": {
+                            "download": "@@images/preview_image-1000-8566cdbdcbee63edf652d559bb8dcfa4.jpeg",
+                            "height": 666,
+                            "width": 1000
+                        },
+                        "mini": {
+                            "download": "@@images/preview_image-200-4bd5196c91a1b4ca2688eb47ed902467.jpeg",
+                            "height": 133,
+                            "width": 200
+                        },
+                        "preview": {
+                            "download": "@@images/preview_image-400-55535127565284baaeff7cf755df04a6.jpeg",
+                            "height": 266,
+                            "width": 400
+                        },
+                        "teaser": {
+                            "download": "@@images/preview_image-600-39b463281db3493026d9f2e1823b62ac.jpeg",
+                            "height": 400,
+                            "width": 600
+                        },
+                        "thumb": {
+                            "download": "@@images/preview_image-128-7668e90b6854d63d8410d302dc16a54c.jpeg",
+                            "height": 85,
+                            "width": 128
+                        },
+                        "tile": {
+                            "download": "@@images/preview_image-64-1f3b8e1fe4cb35b31758227ec4cb6bd4.jpeg",
+                            "height": 42,
+                            "width": 64
+                        }
+                    },
+                    "size": 3842177,
+                    "width": 5184
+                }
+            ]
+        },
+        "review_state": "published",
+        "title": "Forschung",
+        "type_title": "Seite"
+    },
+    "review_state": null,
+    "rights": "",
+    "subjects": [],
+    "title": "louis-reed-pwcKF7L4-no-unsplash (1).jpg",
+    "type_title": "Bild",
+    "version": "current",
+    "working_copy": null,
+    "working_copy_of": null
+}
