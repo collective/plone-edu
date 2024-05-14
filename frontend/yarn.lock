@@ -2373,6 +2373,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@hcaptcha/react-hcaptcha@npm:^0.3.6":
+  version: 0.3.10
+  resolution: "@hcaptcha/react-hcaptcha@npm:0.3.10"
+  peerDependencies:
+    react: ">= 16.3.0"
+    react-dom: ">= 16.3.0"
+  checksum: 3b0d6a8c7da8072ba226663d9904051231cc1754936a1082b46764a966004406876971adb8917d3d7c6920283501c1bd5b7886c83e33885c4b8d5218fdc25ff5
+  languageName: node
+  linkType: hard
+
 "@humanwhocodes/config-array@npm:^0.11.11":
   version: 0.11.14
   resolution: "@humanwhocodes/config-array@npm:0.11.14"
@@ -12854,6 +12864,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"file-saver@npm:^2.0.5":
+  version: 2.0.5
+  resolution: "file-saver@npm:2.0.5"
+  checksum: c62d96e5cebc58b4bdf3ae8a60d5cf9607ad82f75f798c33a4ee63435ac2203002584d5256a2a780eda7feb5e19dc3b6351c2212e58b3f529e63d265a7cc79f7
+  languageName: node
+  linkType: hard
+
 "file-selector@npm:^0.1.12":
   version: 0.1.19
   resolution: "file-selector@npm:0.1.19"
@@ -13329,6 +13346,8 @@ __metadata:
     ts-jest: ^26.4.2
     ts-loader: 9.4.4
     typescript: 5.2.2
+    volto-form-block: 3.8.2
+    volto-subblocks: 2.0.0
   languageName: unknown
   linkType: soft
 
@@ -21402,7 +21421,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-dnd-html5-backend@npm:5.0.1":
+"react-dnd-html5-backend@npm:5.0.1, react-dnd-html5-backend@npm:^5.0.1":
   version: 5.0.1
   resolution: "react-dnd-html5-backend@npm:5.0.1"
   dependencies:
@@ -21414,7 +21433,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-dnd@npm:5.0.0":
+"react-dnd@npm:5.0.0, react-dnd@npm:^5.0.0":
   version: 5.0.0
   resolution: "react-dnd@npm:5.0.0"
   dependencies:
@@ -21526,6 +21545,18 @@ __metadata:
     prop-types: ^15.6.0
     react: ^15.6.2 || ^16.0 || ^17
   checksum: b4f5b0ed3a5d7ea781397d6a1f8dacae2284fe7f03f72dde330958dd0a64732f8766c6fa26cf0f1a8fb1303fa02aa51f23cf0b261e52981d0275262b831c7fea
+  languageName: node
+  linkType: hard
+
+"react-google-recaptcha-v3@npm:^1.8.0":
+  version: 1.10.1
+  resolution: "react-google-recaptcha-v3@npm:1.10.1"
+  dependencies:
+    hoist-non-react-statics: ^3.3.2
+  peerDependencies:
+    react: ^16.3 || ^17.0 || ^18.0
+    react-dom: ^17.0 || ^18.0
+  checksum: b5ffe0bc0b13ad9ab2fa7b7acd979c7ff9d4f9d698412eaf8721167883a2ace2b4f3f5386c4b70f59f1cab9f062c368c360dbaa1b2cad4f1645795f3dbdf9355
   languageName: node
   linkType: hard
 
@@ -26613,6 +26644,21 @@ __metadata:
   languageName: node
   linkType: hard
 
+"volto-form-block@npm:3.8.2":
+  version: 3.8.2
+  resolution: "volto-form-block@npm:3.8.2"
+  dependencies:
+    "@hcaptcha/react-hcaptcha": ^0.3.6
+    file-saver: ^2.0.5
+    react-google-recaptcha-v3: ^1.8.0
+    volto-subblocks: ^2.0.0
+  peerDependencies:
+    "@plone/volto": ">=16.0.0-alpha.38"
+    volto-subblocks: ^2.0.0
+  checksum: 5b72a06a5ee81b3c5f6600cc57df0a190d95765d30bb9afcd09e6ca2215f605184327fa4a88b0e8ce4e410ff9e21b2351cb4340e5a9dcdf95d19f3fac9580573
+  languageName: node
+  linkType: hard
+
 "volto-plone-edu@workspace:src/addons/volto-plone-edu":
   version: 0.0.0-use.local
   resolution: "volto-plone-edu@workspace:src/addons/volto-plone-edu"
@@ -26643,6 +26689,18 @@ __metadata:
     "@plone/volto": ^18.0.0
   languageName: unknown
   linkType: soft
+
+"volto-subblocks@npm:2.0.0, volto-subblocks@npm:^2.0.0":
+  version: 2.0.0
+  resolution: "volto-subblocks@npm:2.0.0"
+  dependencies:
+    react-dnd: ^5.0.0
+    react-dnd-html5-backend: ^5.0.1
+  peerDependencies:
+    "@plone/volto": ">=16.0.0-alpha.38"
+  checksum: 7e4774cd63aad14d46f8371d725d800cc978dafb3672cb9ddb16e032b8fc849948d7e39301c3d55864a40d5143e101fd819165ba5254a016be31812f826c4f76
+  languageName: node
+  linkType: hard
 
 "w3c-hr-time@npm:^1.0.2":
   version: 1.0.2
