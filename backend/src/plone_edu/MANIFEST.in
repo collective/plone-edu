@@ -1,6 +1,0 @@
-graft src/plone_edu
-graft docs
-include *.rst
-include *.md
-include *.cfg
-global-exclude *.pyc

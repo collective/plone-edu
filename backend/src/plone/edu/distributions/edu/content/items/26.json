@@ -1,0 +1,111 @@
+{
+    "@id": "/de/studium/brooke-cagle-uhvrvdr7pg-unsplash.jpg",
+    "@type": "Image",
+    "UID": "2185484e1f1f4c6db8624682f471f636",
+    "allow_discussion": false,
+    "contributors": [],
+    "created": "2024-03-09T08:48:45+00:00",
+    "creators": [
+        "admin"
+    ],
+    "description": "https://unsplash.com/photos/a-group-of-friends-at-a-coffee-shop--uHVRvDr7pg",
+    "effective": null,
+    "exclude_from_nav": false,
+    "expires": null,
+    "id": "brooke-cagle-uhvrvdr7pg-unsplash.jpg",
+    "image": {
+        "blob_path": "blobs/2185484e1f1f4c6db8624682f471f636-image/brooke-cagle--uHVRvDr7pg-unsplash.jpg",
+        "content-type": "image/jpeg",
+        "filename": "brooke-cagle--uHVRvDr7pg-unsplash.jpg",
+        "height": 2665,
+        "size": 2468140,
+        "width": 3997
+    },
+    "is_folderish": false,
+    "language": "de",
+    "layout": "image_view",
+    "lock": {},
+    "modified": "2024-03-09T08:48:45+00:00",
+    "parent": {
+        "@id": "/de/studium",
+        "@type": "Document",
+        "UID": "dac45303d5314f8d929002849b1934e3",
+        "description": "",
+        "image_field": null,
+        "image_scales": {
+            "preview_image": [
+                {
+                    "content-type": "image/jpeg",
+                    "download": "@@images/preview_image-3997-2ff8661017fe5c4ab7c316b2a9c4d9ee.jpeg",
+                    "filename": "brooke-cagle--uHVRvDr7pg-unsplash.jpg",
+                    "height": 2665,
+                    "scales": {
+                        "great": {
+                            "download": "@@images/preview_image-1200-7b06bbedaf62e1f6a87fac9d7a5a253f.jpeg",
+                            "height": 800,
+                            "width": 1200
+                        },
+                        "huge": {
+                            "download": "@@images/preview_image-1600-95cbd3a8bf3d1b83727f9ff445139f59.jpeg",
+                            "height": 1066,
+                            "width": 1600
+                        },
+                        "icon": {
+                            "download": "@@images/preview_image-32-6a14f8390ecdfebe3645f1e1cb39cb44.jpeg",
+                            "height": 21,
+                            "width": 32
+                        },
+                        "large": {
+                            "download": "@@images/preview_image-800-866bfeb424ae9536087cce658240c4d3.jpeg",
+                            "height": 533,
+                            "width": 800
+                        },
+                        "larger": {
+                            "download": "@@images/preview_image-1000-0221833264da24aea381dbeeb83b25dd.jpeg",
+                            "height": 666,
+                            "width": 1000
+                        },
+                        "mini": {
+                            "download": "@@images/preview_image-200-ec870847322aab7a32338c387a375aa1.jpeg",
+                            "height": 133,
+                            "width": 200
+                        },
+                        "preview": {
+                            "download": "@@images/preview_image-400-ef94e8ccfe2c21ce3580c4847a47058a.jpeg",
+                            "height": 266,
+                            "width": 400
+                        },
+                        "teaser": {
+                            "download": "@@images/preview_image-600-4796dcd3e364186f2c97d4cdd304f941.jpeg",
+                            "height": 400,
+                            "width": 600
+                        },
+                        "thumb": {
+                            "download": "@@images/preview_image-128-875e095f1e3d9cafd6f555769ea80aa3.jpeg",
+                            "height": 85,
+                            "width": 128
+                        },
+                        "tile": {
+                            "download": "@@images/preview_image-64-5db2a752db7fcb988d05f43cb8d2c7d4.jpeg",
+                            "height": 42,
+                            "width": 64
+                        }
+                    },
+                    "size": 2468140,
+                    "width": 3997
+                }
+            ]
+        },
+        "review_state": "published",
+        "title": "Studium",
+        "type_title": "Seite"
+    },
+    "review_state": null,
+    "rights": "",
+    "subjects": [],
+    "title": "brooke-cagle--uHVRvDr7pg-unsplash.jpg",
+    "type_title": "Bild",
+    "version": "current",
+    "working_copy": null,
+    "working_copy_of": null
+}

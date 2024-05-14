@@ -1,6 +1,8 @@
 default_context:
     initial_user_name: 'admin'
     initial_user_password: 'admin'
-    zcml_package_includes: 'plone_edu'
+
+    load_zcml:
+        package_includes: ['plone.edu', 'collective.volto.formsupport']
 
     db_storage: direct

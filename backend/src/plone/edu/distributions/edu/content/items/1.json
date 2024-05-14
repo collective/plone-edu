@@ -1,0 +1,33 @@
+{
+    "@id": "/Plone",
+    "@type": "Plone Site",
+    "UID": "1800a28000f94690adc9b5dcfca772a8",
+    "allow_discussion": null,
+    "blocks": {},
+    "blocks_layout": {
+        "items": []
+    },
+    "contributors": [],
+    "creators": [
+        "admin"
+    ],
+    "description": "A Plone Site",
+    "effective": null,
+    "exclude_from_nav": false,
+    "expires": null,
+    "id": "Plone",
+    "is_folderish": true,
+    "items_total": 2,
+    "language": "de",
+    "lock": {
+        "locked": false,
+        "stealable": true
+    },
+    "parent": {},
+    "review_state": null,
+    "rights": "",
+    "subjects": [],
+    "table_of_contents": null,
+    "title": "University of Foo",
+    "type_title": "Website"
+}
