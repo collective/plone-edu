@@ -11,8 +11,12 @@
 
 // [Internal] All the imports of modules required for the configuration *must* happen
 // here BEFORE the following line
+import AffiliationWidget from '@package/components/Widgets/Affiliation/AffiliationWidget';
+
 import '@plone/volto/config';
 
 export default function applyConfig(config) {
+  config.widgets.widget.affiliation_widget = AffiliationWidget;
+
   return config;
 }
