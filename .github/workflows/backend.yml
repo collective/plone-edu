@@ -100,7 +100,7 @@ jobs:
 
       - name: Run tests
         run: |
-          pytest --disable-warnings src/plone_edu/tests
+          pytest --disable-warnings src/plone.edu/tests
 
   release:
     runs-on: ubuntu-latest
