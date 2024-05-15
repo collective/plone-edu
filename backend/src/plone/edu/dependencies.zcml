@@ -6,5 +6,7 @@
   <include package="collective.person" />
   <include package="plone.distribution" />
   <include package="plone.edu" />
+  <include package="collective.volto.formsupport" />
+  <include package="collective.z3cform.norobots" />
 
 </configure>
