@@ -4,7 +4,6 @@ from collective.person.behaviors.person import IPersonData
 from plone.app.dexterity.textindexer import utils
 from zope.i18nmessageid import MessageFactory
 
-
 import logging
 
 
