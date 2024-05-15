@@ -8,5 +8,6 @@
             purge="false"
   >
     <element value="plone.edu.behaviors.eduperson.IEduPersonData" />
+    <element value="volto.blocks.editable.layout" remove="true" />
   </property>
 </object>
