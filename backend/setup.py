@@ -62,6 +62,8 @@ setup(
         "plone.dexterity",
         "plone.supermodel",
         "zope.interface",
+        "collective.volto.formsupport",
+        "collective.z3cform.norobots",
     ],
     extras_require={
         "test": [

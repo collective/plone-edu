@@ -8,6 +8,7 @@
     "collective.person:default",
     "plonetheme.barceloneta:default",
     "collective.volto.formsupport:default",
+    "collective.z3cform.norobots:default",
     "plone.edu:default"
   ],
   "content": []

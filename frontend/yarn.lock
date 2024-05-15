@@ -13346,8 +13346,8 @@ __metadata:
     ts-jest: ^26.4.2
     ts-loader: 9.4.4
     typescript: 5.2.2
-    volto-form-block: 3.8.2
-    volto-subblocks: 2.0.0
+    volto-form-block: ^3.8.2
+    volto-subblocks: ^2.0.0
   languageName: unknown
   linkType: soft
 
@@ -26644,7 +26644,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"volto-form-block@npm:3.8.2":
+"volto-form-block@npm:^3.8.2":
   version: 3.8.2
   resolution: "volto-form-block@npm:3.8.2"
   dependencies:
@@ -26690,7 +26690,7 @@ __metadata:
   languageName: unknown
   linkType: soft
 
-"volto-subblocks@npm:2.0.0, volto-subblocks@npm:^2.0.0":
+"volto-subblocks@npm:^2.0.0":
   version: 2.0.0
   resolution: "volto-subblocks@npm:2.0.0"
   dependencies:

@@ -158,8 +158,8 @@
     "@kitconcept/volto-separator-block": "^4.0.0",
     "@kitconcept/volto-slider-block": "^6.0.0",
     "@plone/volto": "18.0.0-alpha.18",
-    "volto-form-block": "3.8.2",
-    "volto-subblocks": "2.0.0"
+    "volto-form-block": "^3.8.2",
+    "volto-subblocks": "^2.0.0"
   },
   "devDependencies": {
     "@plone/scripts": "^3.0.0",
